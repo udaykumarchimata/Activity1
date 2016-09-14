@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Activity1</string>
+    <string name="user">UserName : </string>
+    <string name="pass">PassWord : </string>
+    <string name="Bsubmit">Submit</string>
+    <string name="Bcancel">Cancel</string>
+    <string name="sharedpreferences">file1</string>
+    <string name="text">your credentials are successfully verified</string>
+    <string name="B1text">Red</string>
+    <string name="B2text">Green</string>
+
+</resources>
